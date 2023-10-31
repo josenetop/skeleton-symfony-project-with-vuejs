@@ -5,7 +5,7 @@ Skeleton Project
 Este projeto destina-se a proporcionar ao usuário:
     1. Um Skeleton do Symfony 5.4 com PHP 7.4;
     2. Visando a dificuldade de desenvolvedores back-end em realizar demandas de front-end,
-        então tense instegrado o webpack com vueJs.
+        então tem-se instegrado o webpack com vueJs.
 
 ## Requisitos
 Nome | Versão
