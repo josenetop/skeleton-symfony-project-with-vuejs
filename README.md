@@ -10,7 +10,7 @@ Este projeto destina-se a proporcionar ao usuário:
 ## Requisitos
 Nome | Versão
 ---|---
-PHP | &ge; 7.4
+PHP | ^7.4
 Composer | 2.6.2
 Node | 14.21.3
 NPM | 6.14.18
