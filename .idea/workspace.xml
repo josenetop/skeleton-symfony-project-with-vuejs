@@ -14,6 +14,9 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -167,6 +170,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "/workspace/planejeiSoftwareHouse/skeleton",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -191,7 +195,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698786358988</updated>
       <workItem from="1698786360076" duration="112000" />
-      <workItem from="1698786485790" duration="4169000" />
+      <workItem from="1698786485790" duration="4903000" />
     </task>
     <servers />
   </component>
